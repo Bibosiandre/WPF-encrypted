@@ -1,0 +1,39 @@
+﻿<Window x:Class="BitEncryptionApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bit Encryption App" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Шифрование -->
+        <StackPanel Grid.Column="0" Margin="20">
+            <Label Content="Текст:" />
+            <TextBox x:Name="txtPlainText" Height="100" Margin="0 5 0 20" />
+
+            <Label Content="Ключ:" />
+            <TextBox x:Name="txtKey" Height="30" Margin="0 5 0 20" />
+
+            <Button Content="Зашифровать" Height="30" Click="Encrypt_Click" />
+
+            <Label Content="Зашифрованный текст:" />
+            <TextBox x:Name="txtEncryptedText" Height="106" />
+        </StackPanel>
+
+        <!-- Дешифрование -->
+        <StackPanel Grid.Column="1" Margin="20">
+            <Label Content="Зашифрованный текст:" />
+            <TextBox x:Name="txtEncryptedTextDecrypt" Height="100" Margin="0 5 0 20" />
+
+            <Label Content="Ключ:" />
+            <TextBox x:Name="txtKeyDecrypt" Height="30" Margin="0 5 0 20" />
+
+            <Button Content="Дешифровать" Height="30" Click="Decrypt_Click" />
+
+            <Label Content="Дешифрованный текст:" />
+            <TextBox x:Name="txtDecryptedText" Height="106" />
+        </StackPanel>
+    </Grid>
+</Window>
