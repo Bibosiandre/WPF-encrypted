@@ -1,0 +1,15 @@
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\bin\Debug\WPF_encrypted.exe.config
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\bin\Debug\WPF_encrypted.exe
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\bin\Debug\WPF_encrypted.pdb
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.csproj.AssemblyReference.cache
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\MainWindow.baml
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\MainWindow.g.cs
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\App.g.cs
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted_MarkupCompile.cache
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.g.resources
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.Properties.Resources.resources
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.csproj.GenerateResource.cache
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.csproj.CoreCompileInputs.cache
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.exe
+C:\Users\v.minibaev.CENTRIKT\Source\Repos\WPF-encrypted\WPF_encrypted\obj\Debug\WPF_encrypted.pdb

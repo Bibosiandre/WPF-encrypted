@@ -67,6 +67,7 @@ namespace BitEncryptionApp
                 decryptedBytes[i] = (byte)(encryptedBytes[i] ^ keyBytes[i % keyBytes.Length]);
             }
 
+
             return Encoding.UTF8.GetString(decryptedBytes);
         }
     }
